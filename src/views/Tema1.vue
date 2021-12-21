@@ -25,8 +25,6 @@
         img(src="@/assets/curso/tema1/2.svg" data-aos="fade-up")
       figcaption(style="background-color:#DCEBEF;font-weight:400;") Nota: Tomada de Sistema Compromiso (SENA, 2021).
 
-    p.mt-5(data-aos="fade-up") Para la elaboración de una guía de aprendizaje es importante tener plenamente identificado el momento metodológico en el cual se encuentra el instructor, de acuerdo con lo que se presenta en la siguiente figura.
-
     .bloque-texto-g.color-secundario.p-5.col-lg-10.m-auto.mt-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/3.svg')})`}"
@@ -41,13 +39,13 @@
         ul.lista-ul(data-aos="fade-left")
           li(data-aos="fade-up") 
             i.fas.fa-check(style="color:#FFB600;")
-            |  El proyecto formativo
+            |  Proyecto Educativo Institucional SENA.
           li(data-aos="fade-up") 
             i.fas.fa-check(style="color:#FFB600;")
-            |  La planeación pedagógica
+            |  Modelo Pedagógico SENA, el Programa Formativo.
           li(data-aos="fade-up") 
             i.fas.fa-check(style="color:#FFB600;")
-            |  Las guías de aprendizaje
+            |  Sistema de Evaluación de los Aprendices.
 
     Separador
     .titulo-segundo.mt-5
@@ -94,7 +92,7 @@
       figure
         img(src="@/assets/curso/tema1/6.svg" data-aos="fade-up")
 
-    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Primer momento] #[strong(style="background-color:#FFDB80;color:#12263F;") Antes de aprender]
+    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Primer momento:] #[strong(style="background-color:#FFDB80;color:#12263F;") antes de aprender]
     p(data-aos="fade-up") En este primer momento para la elaboración de la guía de aprendizaje se deben considerar tres aspectos, a saber:
 
     .row.mt-5.col-lg-10.m-auto

@@ -12,7 +12,6 @@
       img(src="@/assets/curso/introduccion/1.svg" data-aos="fade-up")
 
     p.mt-4(data-aos="fade-up") La guía de aprendizaje y los recursos educativos son elementos fundamentales en el desarrollo curricular. #[br] En el siguiente recurso, se invita a revisar la introducción a este componente.
-    p.mt-3(data-aos="fade-up") ¿En qué consiste la biorremediación de aguas y suelos? Ver el siguiente video para conocer de qué se trata este proceso:
 
     figure
       .video
