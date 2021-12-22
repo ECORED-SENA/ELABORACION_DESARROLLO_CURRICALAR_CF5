@@ -218,20 +218,17 @@ export default {
       {
         nombre: 'María Cristina Hurtado Zúñiga',
         cargo: 'Instructora experta temática',
-        centro:
-          'Centro de Desarrollo Tecnológico Industrial Valle',
+        centro: 'Centro de Desarrollo Tecnológico Industrial Valle',
       },
       {
         nombre: 'Alix Cecilia Chinchilla Rueda',
         cargo: 'Diseñadora instruccional',
-        centro:
-          'Regional Distrito Capital – Centro de Gestión Industrial',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
       },
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Evaluador instruccional',
-        centro:
-          'Centro de Gestión Industrial - Regional Distrito Capita',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capita',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',
