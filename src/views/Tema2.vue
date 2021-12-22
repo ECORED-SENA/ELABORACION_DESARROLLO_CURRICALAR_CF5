@@ -96,7 +96,7 @@
 
     p.mt-3(data-aos="fade-up") Como recurso adicional se tiene configurado un espacio de trabajo y almacenamiento (Works Pace Google), para ingresar a él se deben gestionar las credenciales de ingreso en #[a(style="color:#A757F7" href="http://www.misena.edu.co/" target="_blank") http://www.misena.edu.co/] y así acceder al correo electrónico de #[a(style="color:#A757F7" href="https://mail.google.com/" target="_blank") https://mail.google.com/], configurar las aplicaciones de almacenamiento en la nube #[a(style="color:#A757F7;" href="https://drive.google.com/" target="_blank") https://drive.google.com/], o también se puede diseñar fácilmente un repositorio o micrositio #[em web] en #[a(style="color:#A757F7;" href="https://sites.google.com/" target="_blank") https://sites.google.com/]
 
-    p.mt-3(data-aos="fade-up") Existen en la web diversos recursos educativos ya diseñados que pueden ser útiles para enriquecer y recrear las actividades que se propongan en la guía, es fundamental hacer curaduría de recursos ya diseñados, que tengan clara la intencionalidad pedagógica y didáctica del recurso a usar y probarlo primero antes de proponerlo a los aprendices en la guía de aprendizaje.
+    p.mt-3(data-aos="fade-up") Existen en la #[em web] diversos recursos educativos ya diseñados que pueden ser útiles para enriquecer y recrear las actividades que se propongan en la guía, es fundamental hacer curaduría de recursos ya diseñados, que tengan clara la intencionalidad pedagógica y didáctica del recurso a usar y probarlo primero antes de proponerlo a los aprendices en la guía de aprendizaje.
 
     .bloque-texto-g.color-secundario.p-3.col-lg-10.m-auto.mt-5
       .bloque-texto-g__img(
