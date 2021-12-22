@@ -10,7 +10,7 @@
     .row
       .col-lg-7
         p(data-aos="fade-right") El equipo de desarrollo curricular puede #[strong(style="color:#FF6B00 !important;font-style:italic;text-decoration: underline;") elaborar o sugerir] los materiales de apoyo que sean necesarios en el proceso formativo y su alcance es importante, porque informa y profundiza sobre los contenidos propuestos desde el desarrollo curricular y permiten actualizar a los Instructores en el uso de nuevas tecnologías y la creación e innovación de nuevos diseños de los programas.
-        p.mt-3(data-aos="fade-right") Los recursos educativos o medios didácticos pueden definirse según Blázquez y Lucero (2002, p. 186) como
+        p.mt-3(data-aos="fade-right") Los recursos educativos o medios didácticos pueden definirse según Blázquez y Lucero (2002, p. 186) como:
         .bloque-texto-b.color-secundario.p-2(style="border-top: 1px #FF6B00 solid;")
           .bloque-texto-b__texto
             i.fas.fa-quote-left(style="display:contents;" data-aos="fade-right")
@@ -45,11 +45,11 @@
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
             p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong #[span(style="background-color:#FFDB80;") Tecnologías de Infor]mación y Comunicación (TIC):] #[em software] educativo, programas informáticos (#[em DVD, pendrive y online]). Videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones, simulaciones interactivas y otras.
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
-            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Medios interactivos, multimedia e Internet, programas informáticos (CD u online) educativos:] videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones y simulaciones interactivas, TV y videos interactivos, 
+            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Medios interactivos, multimedia e Internet, programas informáticos (CD u #[em online]) educativos:] videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones y simulaciones interactivas, TV y videos interactivos, 
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
-            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Servicios telemáticos:] páginas web, weblogs, webquest, correo electrónico, chats, foros, unidades didácticas. 
+            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Servicios telemáticos:] páginas #[em web], #[em weblogs], #[em webquest], correo electrónico, chats, foros, unidades didácticas. 
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
-            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; Entornos virtuales de enseñanza y aprendizaje. Plataformas educativas, campus virtual, aula virtual, e-Learning. 
+            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; Entornos virtuales de enseñanza y aprendizaje. Plataformas educativas, campus virtual, aula virtual, e-learning. 
 
       .col-lg-6
         figure
@@ -87,14 +87,16 @@
       li(data-aos="fade-up")
         p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] #[span #[a(style="color:#A757F7" href="https://genial.ly/es/" target="_blank") https://genial.ly/es/]] en la implementación de la gamificación.
       li(data-aos="fade-up")
-        p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] #[span #[a(style="color:#A757F7" href="https://kahoot.com/es/" target="_blank") https://kahoot.com/es/]] en evaluaciones y quices.
+        p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] #[span #[a(style="color:#A757F7" href="https://kahoot.com/es/" target="_blank") https://kahoot.com/es/]] en evaluaciones y #[em quizzes].
 
     figure.mt-5
       img(src="@/assets/curso/tema2/5.svg" data-aos="fade-up")
 
-    p.mt-5(data-aos="fade-up") El SENA soporta su proceso de formación recursos educativos sobre una plataforma LMS (Learning Management System por sus siglas en inglés), e invita a los instructores a utilizarla alojando sus recursos en esta plataforma e invitando a los aprendices a que la usen y dispongan sus evidencias en este espacio virtual.
+    p.mt-5(data-aos="fade-up") El SENA soporta su proceso de formación recursos educativos sobre una plataforma LMS (#[em Learning Management System] por sus siglas en inglés), e invita a los instructores a utilizarla alojando sus recursos en esta plataforma e invitando a los aprendices a que la usen y dispongan sus evidencias en este espacio virtual.
 
-    p.mt-3(data-aos="fade-up") Como recurso adicional se tiene configurado un espacio de trabajo y almacenamiento (Works Pace Google), para ingresar a él se deben gestionar las credenciales de ingreso en #[a(style="color:#A757F7" href="http://www.misena.edu.co/" target="_blank") http://www.misena.edu.co/] y así acceder al correo electrónico de #[a(style="color:#A757F7" href="https://mail.google.com/" target="_blank") https://mail.google.com/], configurar las aplicaciones de almacenamiento en la nube #[a(style="color:#A757F7;" href="https://drive.google.com/" target="_blank") https://drive.google.com/], o también se puede diseñar fácilmente un repositorio o micrositio web en #[a(style="color:#A757F7;" href="https://sites.google.com/" target="_blank") https://sites.google.com/]
+    p.mt-3(data-aos="fade-up") Como recurso adicional se tiene configurado un espacio de trabajo y almacenamiento (Works Pace Google), para ingresar a él se deben gestionar las credenciales de ingreso en #[a(style="color:#A757F7" href="http://www.misena.edu.co/" target="_blank") http://www.misena.edu.co/] y así acceder al correo electrónico de #[a(style="color:#A757F7" href="https://mail.google.com/" target="_blank") https://mail.google.com/], configurar las aplicaciones de almacenamiento en la nube #[a(style="color:#A757F7;" href="https://drive.google.com/" target="_blank") https://drive.google.com/], o también se puede diseñar fácilmente un repositorio o micrositio #[em web] en #[a(style="color:#A757F7;" href="https://sites.google.com/" target="_blank") https://sites.google.com/]
+
+    p.mt-3(data-aos="fade-up") Existen en la web diversos recursos educativos ya diseñados que pueden ser útiles para enriquecer y recrear las actividades que se propongan en la guía, es fundamental hacer curaduría de recursos ya diseñados, que tengan clara la intencionalidad pedagógica y didáctica del recurso a usar y probarlo primero antes de proponerlo a los aprendices en la guía de aprendizaje.
 
     .bloque-texto-g.color-secundario.p-3.col-lg-10.m-auto.mt-5
       .bloque-texto-g__img(
@@ -121,37 +123,37 @@
       .col-lg-7.row.mt-5(style="place-self:center;")
         .col-lg-4(style="place-self:center;")
           ul.lista-ul
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; PIXLR
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; LIM
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; AUDACITY
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; glomarker.org
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; LAMS
         .col-lg-4(style="place-self:center;")
           ul.lista-ul
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Cuadernia
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Screencast Matic
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; TexToys
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Constructor
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Myscarpbook
         .col-lg-4(style="place-self:center;")
           ul.lista-ul
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Quandary
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Genially
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; Powtoon
-            li(data.aos="fade-up" style="")
+            li(data-aos="fade-up" style="")
               p.mb-0 #[i.fas.fa-check(style="color: #FF6B00;")] &nbsp; TikaTok
 
     p.mt-4(data-aos="fade-up") Lo invitamos a que revise cada herramienta y siga los tutoriales para su uso.

@@ -123,8 +123,7 @@
       li.pb-3.pt-3(data.aos="fade-up" style="border-bottom:1px #AFAFAF solid;border-top:1px #AFAFAF solid;")
         p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; Posteriormente, se #[strong(style="background-color:#FFDB80;") plantea la contextualización e identificación de conocimientos] que son consecuencia (resultado) de la situación problémica dando inicio al aprendizaje significativo, lo que el aprendiz ya sabe y lo que debe aprender en el contexto del programa de formación. Las actividades de contextualización permiten comprobar los saberes de los aprendices, la comprensión de conceptos y procedimientos. Cuando el instructor recoge y concluye, los aprendices tendrán la posibilidad de comparar conceptos y procedimientos formales con conocimientos que ya tenía y su validez. Se puede implementar con los métodos de preguntas, lluvia de ideas, socialización de experiencias, intercambio de métodos, formular preguntas con respecto a la situación planteada, imágenes, videos, lectura de texto y formas de hacer las cosas, actividades de observación, entre otras.
 
-    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Segundo momento] #[strong(style="background-color:#FFDB80;color:#12263F;") Mientras aprendo]
-    p(data-aos="fade-up") En este primer momento para la elaboración de la guía de aprendizaje se deben considerar tres aspectos, a saber:
+    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Segundo momento:] #[strong(style="background-color:#FFDB80;color:#12263F;") mientras aprendo]
 
     p.mt-4(data-aos="fade-up") En este segundo momento, en la guía de aprendizaje se deben presentar subactividades (tareas puntuales) denominadas ciclo del aprendizaje, para lo que se usan diversas estrategias abarcando los diferentes tipos de pensamiento de los aprendices con acciones cognitivas, procedimentales, actitudinales, que se desarrollarán a lo largo de contexto en cualquier actividad.
 
@@ -193,7 +192,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 #[strong(style="background-color:#FFDB80;color:#12263F;") Con respecto a las visitas técnicas], estas deben tener claramente identificado #[strong(style="color:#FF8D3B !important;") el objetivo de la visita] y los #[strong(style="color:#FF8D3B !important;") aspectos más importantes] en los que el aprendiz debe concentrarse, los elementos de seguridad para el desarrollo de las actividades; así mismo, elaborar #[strong(style="color:#FF8D3B !important;") preguntas orientadoras] que permitan la realización del #[strong(style="color:#FF8D3B !important;") informe] que debe el tener formato y los puntos específicos del contenido que será entregado.
 
-    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Tercer momento] #[strong(style="background-color:#FFDB80;color:#12263F;") Despúes de aprender]
+    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Tercer momento:] #[strong(style="background-color:#FFDB80;color:#12263F;") despúes de aprender]
 
     .row.mt-4
       .col-lg-7
@@ -205,7 +204,7 @@
         figure
           img(src="@/assets/curso/tema1/15.svg" data-aos="fade-left")
 
-    p.mt-4(data-aos="fade-up") Para el desarrollo de las #[strong(style="background-color:#FFDB80;color:#12263F;") actividades de transferencia de conocimientos] de carácter práctico, es necesario que a los aprendices se les dote de elementos o materiales a través de los cuales puedan hacer propuestas de innovaciones tecnológicas, por ejemplo, artículos de revistas especializadas, datos de informes de investigación o darles la ruta para que los encuentren. Se recomienda dar las instrucciones o un referente al que se puedan remitir para llevar a cabo la socialización. Además, es necesario explicar a los aprendices cuáles serán los aspectos a tener en cuenta para la evaluación. Algunas #[strong(style="background-color:#FFDB80;color:#12263F;") actividades de transferencia de conocimientos] pueden ser: Talleres, prácticas de campo, resultados de desempeño, investigación-acción, profundización del conocimiento, crear, innovar, inventar, formular y solucionar hipótesis solución de problemas.
+    p.mt-4(data-aos="fade-up") Para el desarrollo de las #[strong(style="background-color:#FFDB80;color:#12263F;") actividades de transferencia de conocimientos] de carácter práctico, es necesario que a los aprendices se les dote de elementos o materiales a través de los cuales puedan hacer propuestas de innovaciones tecnológicas, por ejemplo, artículos de revistas especializadas, datos de informes de investigación o darles la ruta para que los encuentren. Se recomienda dar las instrucciones o un referente al que se puedan remitir para llevar a cabo la socialización. Además, es necesario explicar a los aprendices cuáles serán los aspectos a tener en cuenta para la evaluación. Algunas #[strong(style="background-color:#FFDB80;color:#12263F;") actividades de transferencia de conocimientos] pueden ser: talleres, prácticas de campo, resultados de desempeño, investigación-acción, profundización del conocimiento, crear, innovar, inventar, formular y solucionar hipótesis solución de problemas.
     p.mt-3(data-aos="fade-up") En este tercer momento, es importante tener en cuenta la evaluación que el SENA la considera como un proceso de aprendizaje y seguimiento continuo, a esta se le denomina evaluación formativa o valoración integral y se enfoca en el desempeño del aprendiz (su esfuerzo, su interés, su nivel de comprensión, las estrategias que usa para aprender), se valoran evidencias de conocimiento (saber), desempeño (hacer) o producto (es tangible), este proceso también permite mejor las estrategias de enseñanza aprendizaje.
 
     figure.mt-5
@@ -223,7 +222,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/18.svg')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0(data-aos="fade-up") Es importante explicar claramente a los aprendices el proceso de evaluación formativa en el SENA, el cual inicialmente es un diagnóstico, posteriormente es formativo durante los momentos, ya que permite #[strong #[em cualificar y reorientar]]; la evaluación sumativa permite valorar el resultado final del aprendizaje y evidencia el desarrollo de #[strong(style="background-color:#FFDB80;color:#12263F;") competencias.]
+        p.mb-0(data-aos="fade-up") Es importante explicar claramente a los aprendices el proceso de evaluación formativa en el SENA, el cual inicialmente es un diagnóstico, posteriormente es formativo durante los momentos, ya que permite #[strong cualificar y reorientar]; la evaluación sumativa permite valorar el resultado final del aprendizaje y evidencia el desarrollo de #[strong(style="background-color:#FFDB80;color:#12263F;") competencias.]
 
     p.mt-4(data-aos="fade-up") A continuación, se pueden revisar las recomendaciones finales para la estructuración de la guía de aprendizaje SENA.
 

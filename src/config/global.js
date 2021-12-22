@@ -161,7 +161,7 @@ export default {
         'procedimiento mediante el cual se planea, diseña y ejecuta la ruta de aprendizaje de cada aprendiz, mediante proyectos formativos, planeación pedagógica; que contienen actividades de aprendizaje, y aplicación de técnicas didácticas activas que permiten desarrollar sus competencias con ritmos de aprendizaje personalizados.',
     },
     {
-      termino: 'Instrumentos de evaluación ',
+      termino: 'Instrumentos de evaluación',
       significado:
         'conjunto de herramientas utilizadas por el instructor para recoger datos relacionados con los resultados de aprendizaje y criterios de evaluación definidas en el diseño curricular del programa de formación. Con el fin de ser utilizada con más eficacia, cada herramienta es apropiada según las fuentes de información requeridas.',
     },
@@ -186,19 +186,19 @@ export default {
     },
     {
       texto: 'Sistema de Bibliotecas SENA.',
-      tipo: 'Página web repositorio',
+      tipo: 'Página <em>web</em> repositorio',
       link: 'https://repositorio.sena.edu.co/',
     },
     {
       texto:
         'Universidad de los Andes. Repositorio de recursos digitales abiertos. ',
-      tipo: 'Página web repositorio',
+      tipo: 'Página <em>web</em> repositorio',
       link:
         'https://conectate.uniandes.edu.co/index.php/recursos/repositorios-de-recursos-educativos-abiertos',
     },
     {
       texto: 'Repositorio de contenidos educativos abiertos. ',
-      tipo: 'Página web repositorio',
+      tipo: 'Página <em>web</em> repositorio',
       link: 'https://bit.ly/3APRY2W',
     },
   ],
@@ -284,7 +284,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
+        nombre: 'Jhana Johanna Bustillo Ardila',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
