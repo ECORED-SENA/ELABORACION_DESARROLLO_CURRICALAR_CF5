@@ -122,8 +122,7 @@ export default {
     },
     {
       referencia: 'SENA. (2020). Guía de desarrollo curricular. SENA. ',
-      link:
-        'https://compromiso.sena.edu.co/documentos/vista/descarga.php?id=2825',
+      link: 'downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
     },
     {
       referencia:
@@ -179,10 +178,9 @@ export default {
   complementario: [
     {
       texto:
-        'SENA. (2020). 1596495570_GFPI-G-012_Guia_Desarrollo_Curricularv_3.docx.pdf. ',
+        'SENA. (2020). 1596495570_GFPI-G-012_Guia_Desarrollo_Curricularv_3.pdf',
       tipo: 'Documento',
-      link:
-        'https://compromiso.sena.edu.co/documentos/vista/descarga.php?id=2825',
+      link: 'downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
     },
     {
       texto: 'Sistema de Bibliotecas SENA.',
