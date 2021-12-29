@@ -177,8 +177,7 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'SENA. (2020). 1596495570_GFPI-G-012_Guia_Desarrollo_Curricularv_3.pdf',
+      texto: 'SENA. (2020). Guía de desarrollo curricular',
       tipo: 'Documento',
       link: 'downloads/GFPI-G-012_Guia_Desarrollo_Curricular.pdf',
     },
@@ -228,7 +227,7 @@ export default {
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Evaluador instruccional',
-        centro: 'Centro de Gestión Industrial - Regional Distrito Capita',
+        centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'José Gabriel Ortiz Abella',

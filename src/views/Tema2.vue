@@ -43,7 +43,7 @@
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
             p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Material audiovisual:] proyectables, videos, películas, audios, tableros didácticos: pizarra tradicional.
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
-            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong #[span(style="background-color:#FFDB80;") Tecnologías de Infor]mación y Comunicación (TIC):] #[em software] educativo, programas informáticos (#[em DVD, pendrive y online]). Videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones, simulaciones interactivas y otras.
+            p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong #[span(style="background-color:#FFDB80;") Tecnologías de Información y Comunicación (TIC):]] #[em software] educativo, programas informáticos (#[em DVD, pendrive y online]). Videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones, simulaciones interactivas y otras.
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
             p.mb-0 #[i.fas.fa-check(style="color: white;background-color: #FF6B00;padding: 0.3rem .4rem;")] &nbsp; #[strong(style="background-color:#FFDB80;") Medios interactivos, multimedia e Internet, programas informáticos (CD u #[em online]) educativos:] videojuegos, lenguajes de autor, actividades de aprendizaje, presentaciones multimedia, enciclopedias, animaciones y simulaciones interactivas, TV y videos interactivos, 
           li.pb-3(data-aos="fade-up" style="border-bottom:1px #AFAFAF solid;")
@@ -103,7 +103,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema2/6.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0(data-aos="fade-up") El SENA tiene la plataforma LMS #[a(style="color:#A757F7" href="https://lms.cloudlabs.us/" target="_blank") https://lms.cloudlabs.us/] con más 600 laboratorios virtuales, recursos que se pueden configurar en el contenido del curso en el LMS Territorium, use y promueva en los aprendices el uso de imágenes, videos y audios de manera que los comprometa y los involucre en el uso y aplicación de la tecnología para el desarrollo de sus actividades académicas y técnicas laborales propuestas. Se le invita a revisarlo.
+        p.mb-0(data-aos="fade-up") El SENA tiene la plataforma LMS #[a(style="color:#A757F7" href="https://lms.cloudlabs.us/" target="_blank") https://lms.cloudlabs.us/] con más 600 laboratorios virtuales, recursos que se pueden configurar en el contenido del curso en el LMS, use y promueva en los aprendices el uso de imágenes, videos y audios de manera que los comprometa y los involucre en el uso y aplicación de la tecnología para el desarrollo de sus actividades académicas y técnicas laborales propuestas. Se le invita a revisarlo.
 
     br
     .row.mt-5

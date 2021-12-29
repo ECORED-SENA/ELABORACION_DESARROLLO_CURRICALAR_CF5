@@ -192,7 +192,7 @@
       .bloque-texto-g__texto.p-5
         p.mb-0 #[strong(style="background-color:#FFDB80;color:#12263F;") Con respecto a las visitas técnicas], estas deben tener claramente identificado #[strong(style="color:#FF8D3B !important;") el objetivo de la visita] y los #[strong(style="color:#FF8D3B !important;") aspectos más importantes] en los que el aprendiz debe concentrarse, los elementos de seguridad para el desarrollo de las actividades; así mismo, elaborar #[strong(style="color:#FF8D3B !important;") preguntas orientadoras] que permitan la realización del #[strong(style="color:#FF8D3B !important;") informe] que debe el tener formato y los puntos específicos del contenido que será entregado.
 
-    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Tercer momento:] #[strong(style="background-color:#FFDB80;color:#12263F;") despúes de aprender]
+    p.mb-0.mt-5(data-aos="fade-up" style="color:#FF8D3B;") #[strong Tercer momento:] #[strong(style="background-color:#FFDB80;color:#12263F;") después de aprender]
 
     .row.mt-4
       .col-lg-7
@@ -234,7 +234,7 @@
         .col-6(style="place-self:center")
           h5.text-center Recomendaciones finales
         .col-3(style="place-self:center")
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/OKEst_DI_CF5_1-4_Recomendaciones finales.pptx')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/recomendaciones_finales.pptx')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
