@@ -234,7 +234,7 @@
         .col-6(style="place-self:center")
           h5.text-center Recomendaciones finales
         .col-3(style="place-self:center")
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/recomendaciones_finales.pptx')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/recomendaciones_finales.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
 
